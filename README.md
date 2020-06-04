@@ -1,8 +1,8 @@
 # Kazan road city graph
 
-![](https://images-for-something.s3.us-east-2.amazonaws.com/2.+%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE+%D0%BA%D1%80%D0%B0%D1%82%D1%87.+%D0%BF%D1%83%D1%82%D0%B5%D0%B8%CC%86.png | width=900)
+<!-- ![](https://images-for-something.s3.us-east-2.amazonaws.com/2.+%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE+%D0%BA%D1%80%D0%B0%D1%82%D1%87.+%D0%BF%D1%83%D1%82%D0%B5%D0%B8%CC%86.png | width=900) -->
 
-<img src="https://images-for-something.s3.us-east-2.amazonaws.com/2.+%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE+%D0%BA%D1%80%D0%B0%D1%82%D1%87.+%D0%BF%D1%83%D1%82%D0%B5%D0%B8%CC%86.png" width="720" height="400" />
+<img src="https://images-for-something.s3.us-east-2.amazonaws.com/2.+%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE+%D0%BA%D1%80%D0%B0%D1%82%D1%87.+%D0%BF%D1%83%D1%82%D0%B5%D0%B8%CC%86.png" width="1080" height="600" />
 
 # Frontend
 
@@ -14,7 +14,10 @@ All frontend files are in folder "city-graph". Make sure you had already install
 ### `yarn start`
 
 After you would have to generate some number of nodes upon which algorithms would do their stuff (step 1 in a picture below) and after press the button "Сгенерировать на карте"(step 2) for the actual generation to take place.
-![](https://images-for-something.s3.us-east-2.amazonaws.com/templ.png)
+
+<!-- ![](https://images-for-something.s3.us-east-2.amazonaws.com/templ.png) -->
+
+<img src="https://images-for-something.s3.us-east-2.amazonaws.com/templ.png" width="1080" height="600" />
 
 Then run any algorithm on these generated nodes by pressing the corresponding buttons below
 

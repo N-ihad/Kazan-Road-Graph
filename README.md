@@ -2,7 +2,7 @@
 
 <!-- ![](https://images-for-something.s3.us-east-2.amazonaws.com/2.+%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE+%D0%BA%D1%80%D0%B0%D1%82%D1%87.+%D0%BF%D1%83%D1%82%D0%B5%D0%B8%CC%86.png | width=900) -->
 
-<img src="https://images-for-something.s3.us-east-2.amazonaws.com/2.+%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE+%D0%BA%D1%80%D0%B0%D1%82%D1%87.+%D0%BF%D1%83%D1%82%D0%B5%D0%B8%CC%86.png" width="1080" height="600" />
+<img src="https://images-for-something.s3.us-east-2.amazonaws.com/2.+%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE+%D0%BA%D1%80%D0%B0%D1%82%D1%87.+%D0%BF%D1%83%D1%82%D0%B5%D0%B8%CC%86.png" width="720" height="400" />
 
 # Frontend
 
@@ -17,7 +17,7 @@ After you would have to generate some number of nodes upon which algorithms woul
 
 <!-- ![](https://images-for-something.s3.us-east-2.amazonaws.com/templ.png) -->
 
-<img src="https://images-for-something.s3.us-east-2.amazonaws.com/templ.png" width="1080" height="600" />
+<img src="https://images-for-something.s3.us-east-2.amazonaws.com/templ.png" width="720" height="400" />
 
 Then run any algorithm on these generated nodes by pressing the corresponding buttons below
 

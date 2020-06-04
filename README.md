@@ -68,7 +68,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Usage
 
-Make sure you had already installed all necessary packages (by running: pip install -r requirements.txt). To run the backend server you would need to run the command:
+All backend files are in folder "city-graph-backend". Make sure you had already installed all necessary packages (by running: pip install -r requirements.txt). To run the backend server you would need to run the command:
 
 ### `python3 app.py`
 

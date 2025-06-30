@@ -151,6 +151,6 @@ Tutorial
 - [In Flask we trust](http://igordavydenko.com/talks/ua-pycon-2012.pdf)
 
 # Contributors
-#### - [Laistseva Milena](https://github.com/MilRoad) Algorhtms
+#### - [Laistseva Milena](https://github.com/MilRoad) Algorithms
 #### - [Orlov Kirill](https://github.com/orlodox) Algorithms
 #### - [Samedov Nihad](https://github.com/orlodox) Frontend, Backend
